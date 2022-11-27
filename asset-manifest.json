@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ludovyko/ludovyko.github.io.git/static/css/main.b2977923.css",
-    "main.js": "/ludovyko/ludovyko.github.io.git/static/js/main.dc1ef0da.js",
-    "static/media/home.png": "/ludovyko/ludovyko.github.io.git/static/media/home.461aa716a2920dd0b5cc.png",
-    "static/media/CaviarDreams_Bold.ttf": "/ludovyko/ludovyko.github.io.git/static/media/CaviarDreams_Bold.27a9138375e48958eeb9.ttf",
-    "index.html": "/ludovyko/ludovyko.github.io.git/index.html",
-    "main.b2977923.css.map": "/ludovyko/ludovyko.github.io.git/static/css/main.b2977923.css.map",
-    "main.dc1ef0da.js.map": "/ludovyko/ludovyko.github.io.git/static/js/main.dc1ef0da.js.map"
+    "main.css": "/static/css/main.20b65f43.css",
+    "main.js": "/static/js/main.0adcaf86.js",
+    "static/media/home.png": "/static/media/home.461aa716a2920dd0b5cc.png",
+    "static/media/CaviarDreams_Bold.ttf": "/static/media/CaviarDreams_Bold.27a9138375e48958eeb9.ttf",
+    "index.html": "/index.html",
+    "main.20b65f43.css.map": "/static/css/main.20b65f43.css.map",
+    "main.0adcaf86.js.map": "/static/js/main.0adcaf86.js.map"
   },
   "entrypoints": [
-    "static/css/main.b2977923.css",
-    "static/js/main.dc1ef0da.js"
+    "static/css/main.20b65f43.css",
+    "static/js/main.0adcaf86.js"
   ]
 }
