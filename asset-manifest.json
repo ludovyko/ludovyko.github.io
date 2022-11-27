@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ludovyko/ludovyko.github.io.git/static/css/main.b2977923.css",
-    "main.js": "/ludovyko/ludovyko.github.io.git/static/js/main.45f7fde8.js",
+    "main.js": "/ludovyko/ludovyko.github.io.git/static/js/main.8f55dfcb.js",
     "static/media/home.png": "/ludovyko/ludovyko.github.io.git/static/media/home.461aa716a2920dd0b5cc.png",
     "static/media/CaviarDreams_Bold.ttf": "/ludovyko/ludovyko.github.io.git/static/media/CaviarDreams_Bold.27a9138375e48958eeb9.ttf",
     "index.html": "/ludovyko/ludovyko.github.io.git/index.html",
     "main.b2977923.css.map": "/ludovyko/ludovyko.github.io.git/static/css/main.b2977923.css.map",
-    "main.45f7fde8.js.map": "/ludovyko/ludovyko.github.io.git/static/js/main.45f7fde8.js.map"
+    "main.8f55dfcb.js.map": "/ludovyko/ludovyko.github.io.git/static/js/main.8f55dfcb.js.map"
   },
   "entrypoints": [
     "static/css/main.b2977923.css",
-    "static/js/main.45f7fde8.js"
+    "static/js/main.8f55dfcb.js"
   ]
 }
