@@ -1,0 +1,9 @@
+header {
+  padding: var(--sm-spacing) var(--spacing);
+  color: #f3f3f3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-left: 300px;
+  text-decoration: none;
+}
